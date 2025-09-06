@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data science and machine learning enthusiast from India</h3>
 
 
-- 🔭 I’m currently working on **Graph neural network**
+- 🔭 I’m currently working on **Gen-AI chat models**
   
 - 💊 I have worked on Drug approval prediction **Likelihood of Approval**
 
