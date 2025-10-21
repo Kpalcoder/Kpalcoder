@@ -6,6 +6,8 @@
   
 - 💊 I have worked on Drug approval prediction **Likelihood of Approval**
 
+-  I have worked on Insurance data **Fraud Detection**
+
 - 📃 I have worked on Prompt Engineering **Patent type classification**
 
 - 👯 I Have worked on Topic modeling using google BERT **Topic Modeling**
